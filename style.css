@@ -1,0 +1,11 @@
+.parent{
+    background-color: black;
+    display: flex;
+
+    justify-content: space-between;
+}
+.a, .b, .c{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+}
